@@ -1,0 +1,7 @@
+Welcome to the Ghost Writer project.
+
+This project aim at building an engine capable to convert data (and relationships between data) into human readable text.
+
+Ghost Writer will be useful (hopefully essential!) for writing articles, books, papers, reviews, and, in general, all those documents that express concepts and ideas that are representable as a directed graph (http://en.wikipedia.org/wiki/Directed_graph).
+
+Info on installation, contribution and development status will follow soon.
