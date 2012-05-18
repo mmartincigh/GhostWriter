@@ -3,5 +3,7 @@ Welcome to the Ghost Writer project.
 This project aims at building an engine capable to convert data (and relationships between data) into human readable text.
 
 Ghost Writer will be useful (hopefully essential!) for writing articles, books, papers, reviews, and, in general, all those documents that express concepts and ideas that are representable as a directed graph (http://en.wikipedia.org/wiki/Directed_graph).
+Why this format for data? Because the representation of information by means of single pieces of data (nodes) connected by their mutual relationship (edges) and thus forming a graph, is the way everything can be represented, is the way data is organized on the internet, is the way your brain works.
+Being capable to process such a network of interconnections into a refined, concise and consistent product will pave the way for the new-generation information processing systems, and, ultimately, to a new approach to sophisticated artificial intelligence.
 
 Info on installation, contribution and development status will follow soon.
